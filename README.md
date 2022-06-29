@@ -14,6 +14,10 @@ O _pattern_ builder é um padrão de projeto projetado para fornecer uma soluç�
 
 ### Facade
 
+O padrão facade é um padrão de design de software comumente usado em programação orientada a objetos. Análoga a uma fachada na arquitetura, uma facade é um objeto que serve como uma interface frontal que mascara um código subjacente ou estrutural mais complexo.
+
+Forneça uma interface unificada para um conjunto de interfaces em um subsistema. O padrão define uma interface de nível superior que torna o subsistema mais fácil de usar.
+
 ### Strategy
 
 ### Matcher
