@@ -1,4 +1,5 @@
 import { DesertGameScene } from "./desertGameScene";
+import { GameScene } from "./gameScene";
 
-const desertScene = new DesertGameScene()
-desertScene.startScene()
+const desertScene: GameScene = new DesertGameScene();
+desertScene.startScene();
