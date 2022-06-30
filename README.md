@@ -46,6 +46,10 @@ O padrão strategy é um padrão de design de software comportamental que permit
 
 ### Factory
 
+O padrão factory é um padrão do tipo criacional que vem para facilitar a construção de objetos. Existem várias variações e implementação desse pattern como abstract factory, static factory e factory method. No fim todas tem o intuito de criar objetos de uma forma ou outra. Nesse caso o exemplo apresenta duas variações, static factory utilizando uma classe para instanciar de acordo com o parâmetro e outro utilizando currying. Uma outra variação mais ligada a legibilidade de código é o static factory method que consiste em substituir o construtor de uma classe por métodos estáticos com nomes mais semânticos e que por vezes facilitam a criação de objetos.
+
+[Exemplo](/examples/factory/index.ts)
+
 <hr>
 
 ### Handler
